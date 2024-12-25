@@ -931,6 +931,7 @@ footer{
 	position:fixed;
 	bottom:0.1rem;
 	right:1.0rem;
+	z-index:10000;
 }
 .top i{
 	color:var(--primary-color);
