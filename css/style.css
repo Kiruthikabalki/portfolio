@@ -459,6 +459,7 @@ a{
 	margin-top:0.3rem;
 	width:70%;
 	height:8px;
+	border:none;
 	border-radius:10px;
 	background-color:black;
 }
