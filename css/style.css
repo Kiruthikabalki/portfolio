@@ -1654,7 +1654,7 @@ footer{
 	#Home .home-content{
 		width:100%;
 		padding:3rem 2rem;
-		margin:2rem 1rem;
+		margin:5rem 1rem;
 	}
 	.home-content h1{
 		font-size:1.5rem;
@@ -1667,7 +1667,7 @@ footer{
 		font-size:1.4rem;
 	}
 	.home-soci{
-		margin:2rem;
+		margin:3rem 2rem;
 	}
 	.home-soci a i{
 		font-size:1.3rem;
