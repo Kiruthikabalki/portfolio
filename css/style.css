@@ -63,7 +63,7 @@ body{
 	width:100%;
 	height:70px;
 	top:0;
-	margin-bottom:0.5rem;
+	margin-bottom:1.5rem;
 }
 .navbar #check{
 	display:none;
@@ -135,7 +135,7 @@ a{
 		justify-content:center;
 		align-items:center;
 		width:100%;
-		margin-top:4rem;
+		margin-top:7rem;
 }
 #Home .home-content{
 		display:flex;
@@ -1757,7 +1757,7 @@ footer{
 		text-align:center;
 		padding:3rem 4rem;
 	}
-	/*#Skills .profesional{
+	/* #Skills .profesional{
 		width:100%;
 		display:flex;
 		flex-direction:column;
